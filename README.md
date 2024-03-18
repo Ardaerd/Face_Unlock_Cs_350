@@ -25,9 +25,7 @@ I have used three python files to solve this issue.
 3) **face_unlock.py**
  This is an important python file that will detect your face using the webcam and unlock the system.
 
-## Contributing
 
-Code contributions are also very welcome. feel free to open an issue for that too.
 
 
 To do:
